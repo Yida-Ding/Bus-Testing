@@ -1,0 +1,7 @@
+{"sec": 0, "action": "start", "data": {}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 2, "lat": 28.141954330046808, "lon": 112.91175267417421, "station": 151, "status": 1, "direction": 0}]}}
+{"sec": 6, "action": "order", "data": {"region_id": 1, "order_id": "TESTA-55-2", "pax_num": 1, "order_time": "2024-12-24 16:00:06", "available_pickup_station_list": [152], "available_pickup_walkingtime_list": [0], "available_dropoff_station_list": [148], "available_dropoff_walkingtime_list": [0]}}
+{"sec": 6, "action": "order", "data": {"region_id": 1, "order_id": "TESTA-55-3", "pax_num": 1, "order_time": "2024-12-24 16:00:06", "available_pickup_station_list": [151], "available_pickup_walkingtime_list": [0], "available_dropoff_station_list": [152], "available_dropoff_walkingtime_list": [0]}}
+{"sec": 20, "action": "vehicle_arrive", "data": {"region_id": 1, "vehicle_id": 2, "station_id": 152, "pickup_order_id": ["TESTA-55-2"], "dropoff_order_id": []}}
+{"sec": 30, "action": "vehicle_arrive", "data": {"region_id": 1, "vehicle_id": 2, "station_id": 151, "pickup_order_id": ["TESTA-55-3"], "dropoff_order_id": []}}
+{"sec": 40, "action": "vehicle_arrive", "data": {"region_id": 1, "vehicle_id": 2, "station_id": 152, "pickup_order_id": [], "dropoff_order_id": ["TESTA-55-3"]}}

@@ -1,0 +1,229 @@
+{
+  "region_id": 1,
+  "region_name": "增量测试长沙",
+  "stations": [
+    {
+      "station_id": 1,
+      "station_name": "检测园东北门",
+      "station_lon": 112.89224737501489,
+      "station_lat": 28.129249180492614
+    },
+    {
+      "station_id": 2,
+      "station_name": "检测园东南门",
+      "station_lon": 112.89256810101497,
+      "station_lat": 28.127253304333124
+    },
+    {
+      "station_id": 9,
+      "station_name": "食品药品检验所东南门",
+      "station_lon": 112.88994411613294,
+      "station_lat": 28.13039068376608
+    },
+    {
+      "station_id": 11,
+      "station_name": "周南学士实验学校西南",
+      "station_lon": 112.88992609399274,
+      "station_lat": 28.132203509509488
+    },
+    {
+      "station_id": 13,
+      "station_name": "周南学士学校东南门",
+      "station_lon": 112.89226649268834,
+      "station_lat": 28.132143377422175
+    },
+    {
+      "station_id": 14,
+      "station_name": "汉高学士府东北门",
+      "station_lon": 112.89427410734677,
+      "station_lat": 28.127768254511295
+    },
+    {
+      "station_id": 15,
+      "station_name": "汉高学士府东门",
+      "station_lon": 112.89570937100143,
+      "station_lat": 28.126267365816954
+    },
+    {
+      "station_id": 16,
+      "station_name": "食品药品学院西南门",
+      "station_lon": 112.89533824147651,
+      "station_lat": 28.12689026865359
+    },
+    {
+      "station_id": 18,
+      "station_name": "联丰苑南1门",
+      "station_lon": 112.89353246587922,
+      "station_lat": 28.129907549370124
+    },
+    {
+      "station_id": 19,
+      "station_name": "周师傅小炒",
+      "station_lon": 112.89162032325693,
+      "station_lat": 28.130165281233378
+    },
+    {
+      "station_id": 21,
+      "station_name": "食品药品学院东南门",
+      "station_lon": 112.89889293199818,
+      "station_lat": 28.126656075182876
+    },
+    {
+      "station_id": 22,
+      "station_name": "食品药品学院北门",
+      "station_lon": 112.8968070924358,
+      "station_lat": 28.129896386892828
+    },
+    {
+      "station_id": 25,
+      "station_name": "比扬医疗",
+      "station_lon": 112.89454689616502,
+      "station_lat": 28.131604901031995
+    },
+    {
+      "station_id": 26,
+      "station_name": "学士翰林苑",
+      "station_lon": 112.8919741199718,
+      "station_lat": 28.13483353856636
+    },
+    {
+      "station_id": 27,
+      "station_name": "俏厨娘",
+      "station_lon": 112.89749238943523,
+      "station_lat": 28.130199421644463
+    },
+    {
+      "station_id": 28,
+      "station_name": "上药控股",
+      "station_lon": 112.895500662685,
+      "station_lat": 28.130499735971124
+    },
+    {
+      "station_id": 91,
+      "station_name": "长沙中车智驭",
+      "station_lon": 112.89165193938469,
+      "station_lat": 28.12790017318555
+    },
+    {
+      "station_id": 98,
+      "station_name": "柏纳酒店",
+      "station_lon": 112.9142686280801,
+      "station_lat": 28.13708393550137
+    },
+    {
+      "station_id": 99,
+      "station_name": "江山帝景五期东北门",
+      "station_lon": 112.91128713989987,
+      "station_lat": 28.12960601263873
+    },
+    {
+      "station_id": 100,
+      "station_name": "中医药大学东门",
+      "station_lon": 112.90367337946118,
+      "station_lat": 28.13814561232112
+    },
+    {
+      "station_id": 101,
+      "station_name": "裕园小区西门",
+      "station_lon": 112.90509468155561,
+      "station_lat": 28.13632711129613
+    },
+    {
+      "station_id": 102,
+      "station_name": "江山帝景北2门",
+      "station_lon": 112.91462633427902,
+      "station_lat": 28.136824954483295
+    },
+    {
+      "station_id": 105,
+      "station_name": "中医药大学南门",
+      "station_lon": 112.90128830115326,
+      "station_lat": 28.130810020472858
+    },
+    {
+      "station_id": 106,
+      "station_name": "含浦家苑南门",
+      "station_lon": 112.9008880248805,
+      "station_lat": 28.138486272634047
+    },
+    {
+      "station_id": 107,
+      "station_name": "联丰小区南3门",
+      "station_lon": 112.90943915053623,
+      "station_lat": 28.140910568627508
+    },
+    {
+      "station_id": 108,
+      "station_name": "博才学士中学东南1门",
+      "station_lon": 112.9124253178926,
+      "station_lat": 28.130817286581372
+    },
+    {
+      "station_id": 113,
+      "station_name": "食品药品职院",
+      "station_lon": 112.89443628680863,
+      "station_lat": 28.128924549810623
+    },
+    {
+      "station_id": 114,
+      "station_name": "联丰小区南门",
+      "station_lon": 112.90820395578989,
+      "station_lat": 28.140539639799773
+    },
+    {
+      "station_id": 125,
+      "station_name": "渔湘四海",
+      "station_lon": 112.9007434551127,
+      "station_lat": 28.130536268001766
+    },
+    {
+      "station_id": 126,
+      "station_name": "零食很忙",
+      "station_lon": 112.90343529748803,
+      "station_lat": 28.131639659702596
+    },
+    {
+      "station_id": 127,
+      "station_name": "枫华府第东门商业楼",
+      "station_lon": 112.90552348606606,
+      "station_lat": 28.133794249129014
+    },
+    {
+      "station_id": 128,
+      "station_name": "枫华府第西北3门对面",
+      "station_lon": 112.90438394747291,
+      "station_lat": 28.13289692392884
+    },
+    {
+      "station_id": 129,
+      "station_name": "食品药品学院对面",
+      "station_lon": 112.89541946544573,
+      "station_lat": 28.12964297744605
+    }
+  ],
+  "vehicle_info": [
+    {
+      "vehicle_id": 1,
+      "vehicle_num": "湘A12342",
+      "vehicle_speed": 25,
+      "vehicle_capacity": 10
+    },
+    {
+      "vehicle_id": 2,
+      "vehicle_num": "湘A12342",
+      "vehicle_speed": 25,
+      "vehicle_capacity": 10
+    }
+
+  ],
+  "config": {
+    "max_wait_time": 10,
+    "max_delay_time": 20,
+    "sharing_ratio": 2,
+    "overtime_sharing_ratio": 1.5,
+    "turning_angle": 180,
+    "within_tenmin_delay_time": 8,
+    "beyond_tenmin_delay_time": 15,
+    "next_station_lock_dist": 200
+  }
+}

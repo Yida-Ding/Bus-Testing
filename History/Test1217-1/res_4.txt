@@ -1,0 +1,29 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416463851","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.2
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416464153","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.5
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416464455","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 2.8
+order {"code":1007,"message":"订单已存在","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416466751","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 5.1
+order {"code":1007,"message":"订单已存在","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416469371","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 5.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416469716","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 6.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416470070","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416475217","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[99,100,127,98],"station_name_list":["江山帝景五期东北门","中医药大学东门","枫华府第东门商业楼","柏纳酒店"],"station_arrive_time_list":["2024-12-17 14:24:01","2024-12-17 14:28:12","2024-12-17 14:34:45","2024-12-17 14:38:01"],"station_leave_time_list":["2024-12-17 14:24:31","2024-12-17 14:28:42","2024-12-17 14:35:15","2024-12-17 14:38:31"],"station_related_orders_list":[[{"order_id":"TD17-4","pax_num":1}],[{"order_id":"TD17-3","pax_num":1}],[{"order_id":"TD17-3","pax_num":-1}],[{"order_id":"TD17-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+

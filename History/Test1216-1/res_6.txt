@@ -1,0 +1,15 @@
+Time= 0.0
+Time= 0.0
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 0.3
+order {"code":0,"message":"成功","data":null}
+Time= 4.5
+order {"code":0,"message":"成功","data":null}
+Time= 8.6
+order {"code":0,"message":"成功","data":null}
+Time= 13.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734336749309","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[19,1,11,26],"station_name_list":["周师傅小炒","检测园东北门","周南学士实验学校西南","学士翰林苑"],"station_arrive_time_list":["2024-12-16 16:13:35","2024-12-16 16:14:21","2024-12-16 16:15:50","2024-12-16 16:18:12"],"station_leave_time_list":["2024-12-16 16:14:05","2024-12-16 16:14:51","2024-12-16 16:16:20","2024-12-16 16:18:42"],"station_related_orders_list":[[{"order_id":"TA6-1","pax_num":1}],[{"order_id":"TA6-2","pax_num":1}],[{"order_id":"TA6-2","pax_num":-1}],[{"order_id":"TA6-1","pax_num":-1}]]}]}}
+

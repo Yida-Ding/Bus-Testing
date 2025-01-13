@@ -1,0 +1,15 @@
+Time= 0.0
+Time= 0.0
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 1.3
+order {"code":0,"message":"成功","data":null}
+Time= 1.5
+order {"code":0,"message":"成功","data":null}
+Time= 2.6
+order {"code":0,"message":"成功","data":null}
+Time= 2.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734336518863","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[18,127,105,27,21,126,114],"station_name_list":["联丰苑南1门","枫华府第东门商业楼","中医药大学南门","俏厨娘","食品药品学院东南门","零食很忙","联丰小区南门"],"station_arrive_time_list":["2024-12-16 16:10:22","2024-12-16 16:15:17","2024-12-16 16:17:15","2024-12-16 16:19:00","2024-12-16 16:21:19","2024-12-16 16:25:31","2024-12-16 16:30:27"],"station_leave_time_list":["2024-12-16 16:11:22","2024-12-16 16:15:47","2024-12-16 16:17:45","2024-12-16 16:19:30","2024-12-16 16:21:49","2024-12-16 16:26:01","2024-12-16 16:30:57"],"station_related_orders_list":[[{"order_id":"TA2-2","pax_num":1},{"order_id":"TA2-2","pax_num":-1}],[{"order_id":"TA2-4","pax_num":1}],[{"order_id":"TA2-3","pax_num":1}],[{"order_id":"TA2-1","pax_num":1}],[{"order_id":"TA2-1","pax_num":-1}],[{"order_id":"TA2-3","pax_num":-1}],[{"order_id":"TA2-4","pax_num":-1}]]}]}}
+

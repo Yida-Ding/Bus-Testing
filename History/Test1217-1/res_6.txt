@@ -1,0 +1,29 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416523376","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416523658","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.4
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416523933","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416524247","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 5.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416528558","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[19,9],"station_name_list":["周师傅小炒","食品药品检验所东南门"],"station_arrive_time_list":["2024-12-17 14:23:44","2024-12-17 14:24:51"],"station_leave_time_list":["2024-12-17 14:24:14","2024-12-17 14:25:21"],"station_related_orders_list":[[{"order_id":"TF17-1","pax_num":1}],[{"order_id":"TF17-1","pax_num":-1}]]}]}}
+
+Time= 8.3
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416531873","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[27,21],"station_name_list":["俏厨娘","食品药品学院东南门"],"station_arrive_time_list":["2024-12-17 14:24:27","2024-12-17 14:26:46"],"station_leave_time_list":["2024-12-17 14:24:57","2024-12-17 14:27:16"],"station_related_orders_list":[[{"order_id":"TF17-2","pax_num":1}],[{"order_id":"TF17-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[19,9],"station_name_list":["周师傅小炒","食品药品检验所东南门"],"station_arrive_time_list":["2024-12-17 14:23:49","2024-12-17 14:24:56"],"station_leave_time_list":["2024-12-17 14:24:19","2024-12-17 14:25:26"],"station_related_orders_list":[[{"order_id":"TF17-1","pax_num":1}],[{"order_id":"TF17-1","pax_num":-1}]]}]}}
+
+Time= 8.6
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416532500","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[27,21],"station_name_list":["俏厨娘","食品药品学院东南门"],"station_arrive_time_list":["2024-12-17 14:24:27","2024-12-17 14:26:46"],"station_leave_time_list":["2024-12-17 14:24:57","2024-12-17 14:27:16"],"station_related_orders_list":[[{"order_id":"TF17-2","pax_num":1}],[{"order_id":"TF17-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[19,9],"station_name_list":["周师傅小炒","食品药品检验所东南门"],"station_arrive_time_list":["2024-12-17 14:23:49","2024-12-17 14:24:56"],"station_leave_time_list":["2024-12-17 14:24:19","2024-12-17 14:25:26"],"station_related_orders_list":[[{"order_id":"TF17-1","pax_num":1}],[{"order_id":"TF17-1","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416537645","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[27,21],"station_name_list":["俏厨娘","食品药品学院东南门"],"station_arrive_time_list":["2024-12-17 14:24:32","2024-12-17 14:26:51"],"station_leave_time_list":["2024-12-17 14:25:02","2024-12-17 14:27:21"],"station_related_orders_list":[[{"order_id":"TF17-2","pax_num":1}],[{"order_id":"TF17-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[19,9,101,98],"station_name_list":["周师傅小炒","食品药品检验所东南门","裕园小区西门","柏纳酒店"],"station_arrive_time_list":["2024-12-17 14:23:54","2024-12-17 14:25:01","2024-12-17 14:30:46","2024-12-17 14:35:35"],"station_leave_time_list":["2024-12-17 14:24:24","2024-12-17 14:25:31","2024-12-17 14:31:16","2024-12-17 14:36:05"],"station_related_orders_list":[[{"order_id":"TF17-1","pax_num":1}],[{"order_id":"TF17-1","pax_num":-1}],[{"order_id":"TF17-3","pax_num":1}],[{"order_id":"TF17-3","pax_num":-1}]]}]}}
+

@@ -1,0 +1,90 @@
+{
+  "region_id": 2,
+  "region_name": "清华校园示范区",
+  "stations": [
+    {
+      "station_id": 1001,
+      "station_name": "李兆基科技大楼",
+      "station_lon": 116.32453035,
+      "station_lat": 39.99613837
+    },
+    {
+      "station_id": 1002,
+      "station_name": "清华东南门",
+      "station_lon": 116.32687367,
+      "station_lat": 39.9962787
+    },
+    {
+      "station_id": 1003,
+      "station_name": "环境学院东",
+      "station_lon": 116.32923904,
+      "station_lat": 39.9977193
+    },
+    {
+      "station_id": 1004,
+      "station_name": "美术学院东",
+      "station_lon": 116.32914157,
+      "station_lat": 39.9990538
+    },
+    {
+      "station_id": 1005,
+      "station_name": "艺术博物馆",
+      "station_lon": 116.32826229,
+      "station_lat": 40.00069671
+    },
+    {
+      "station_id": 1006,
+      "station_name": "自强楼",
+      "station_lon": 116.32816167,
+      "station_lat": 40.0028633
+    },
+    {
+      "station_id": 1007,
+      "station_name": "汽车研究所",
+      "station_lon": 116.32803335,
+      "station_lat": 40.00680159
+    },
+    {
+      "station_id": 1008,
+      "station_name": "北体育馆",
+      "station_lon": 116.32799412,
+      "station_lat": 40.00570411
+    },
+    {
+      "station_id": 1009,
+      "station_name": "东网球场",
+      "station_lon": 116.3281493,
+      "station_lat": 40.00246207
+    },
+    {
+      "station_id": 1010,
+      "station_name": "东主楼",
+      "station_lon": 116.3282366,
+      "station_lat": 40.00056487
+    },
+    {
+      "station_id": 1011,
+      "station_name": "美术学院西",
+      "station_lon": 116.32905491,
+      "station_lat": 39.99878135
+    },
+    {
+      "station_id": 1012,
+      "station_name": "环境学院西",
+      "station_lon": 116.32920469,
+      "station_lat": 39.99743593
+    },
+    {
+      "station_id": 1013,
+      "station_name": "清华东南门北",
+      "station_lon": 116.32649183,
+      "station_lat": 39.99626292
+    },
+    {
+      "station_id": 1014,
+      "station_name": "9003大楼",
+      "station_lon": 116.32439286,
+      "station_lat": 39.99616363
+    }
+  ]
+}

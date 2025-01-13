@@ -1,0 +1,133 @@
+{
+    "region_id": 1,
+    "region_name": "增量测试长沙",
+    "stations": [
+      {
+        "station_id": 2,
+        "station_name": "检测园东南门",
+        "station_lon": 112.89256810101497,
+        "station_lat": 28.127253304333124
+      },
+      {
+        "station_id": 15,
+        "station_name": "汉高学士府东门",
+        "station_lon": 112.89565893507284,
+        "station_lat": 28.12636317765134
+      },
+      {
+        "station_id": 22,
+        "station_name": "食品药品学院北门",
+        "station_lon": 112.8968070924358,
+        "station_lat": 28.129896386892828
+      },
+      {
+        "station_id": 98,
+        "station_name": "柏纳酒店",
+        "station_lon": 112.91433598534816,
+        "station_lat": 28.13699419899989
+      },
+      {
+        "station_id": 99,
+        "station_name": "江山帝景五期东北门",
+        "station_lon": 112.91135900593709,
+        "station_lat": 28.129611099752825
+      },
+      {
+        "station_id": 100,
+        "station_name": "中医药大学东门",
+        "station_lon": 112.90374557158962,
+        "station_lat": 28.138043488653217
+      },
+      {
+        "station_id": 101,
+        "station_name": "裕园小区西门",
+        "station_lon": 112.90509468155561,
+        "station_lat": 28.13632711129613
+      },
+      {
+        "station_id": 102,
+        "station_name": "江山帝景北2门",
+        "station_lon": 112.9146533298847,
+        "station_lat": 28.1368286367851
+      },
+      {
+        "station_id": 105,
+        "station_name": "中医药大学南门",
+        "station_lon": 112.90128754335292,
+        "station_lat": 28.130797549626152
+      },
+      {
+        "station_id": 108,
+        "station_name": "博才学士中学东南1门",
+        "station_lon": 112.91246683316723,
+        "station_lat": 28.130845514346394
+      },
+      {
+        "station_id": 114,
+        "station_name": "联丰小区南门",
+        "station_lon": 112.90816176596832,
+        "station_lat": 28.140525342445827
+      },
+      {
+        "station_id": 126,
+        "station_name": "枫华府第西北1门",
+        "station_lon": 112.90350344908191,
+        "station_lat": 28.131698629350524
+      },
+      {
+        "station_id": 129,
+        "station_name": "食品药品学院对面",
+        "station_lon": 112.89441725071799,
+        "station_lat": 28.12915270035996
+      },
+      {
+        "station_id": 145,
+        "station_name": "含浦家苑东门",
+        "station_lon": 112.90295171286236,
+        "station_lat": 28.139975513625338
+      },
+      {
+        "station_id": 146,
+        "station_name": "裕园小区南门",
+        "station_lon": 112.90834841965291,
+        "station_lat": 28.135868112841933
+      },
+      {
+        "station_id": 147,
+        "station_name": "洋湖时代西门",
+        "station_lon": 112.90667355598531,
+        "station_lat": 28.13354587192094
+      },
+      {
+        "station_id": 148,
+        "station_name": "洋湖时代东南门",
+        "station_lon": 112.90877756933727,
+        "station_lat": 28.132099485666853
+      },
+      {
+        "station_id": 149,
+        "station_name": "象山国际东南1门",
+        "station_lon": 112.90840640268723,
+        "station_lat": 28.125953525764555
+      },
+      {
+        "station_id": 150,
+        "station_name": "象山国际东北1门",
+        "station_lon": 112.90897622899236,
+        "station_lat": 28.12914531447504
+      },
+      {
+        "station_id": 151,
+        "station_name": "车塘和小区南区-西门",
+        "station_lon": 112.91175267417421,
+        "station_lat": 28.141954330046808
+      },
+      {
+        "station_id": 152,
+        "station_name": "江山帝景哈佛西2门",
+        "station_lon": 112.91160635942322,
+        "station_lat": 28.138465250959467
+      }
+    ]
+  }
+  

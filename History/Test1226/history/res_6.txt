@@ -1,0 +1,53 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496366398","vehicle_dispatch":[]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496366681","vehicle_dispatch":[]}}
+
+Time= 0.4
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496366946","vehicle_dispatch":[]}}
+
+Time= 0.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496367276","vehicle_dispatch":[]}}
+
+Time= 1.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496367643","vehicle_dispatch":[]}}
+
+Time= 1.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496368073","vehicle_dispatch":[]}}
+
+Time= 1.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496368436","vehicle_dispatch":[]}}
+
+Time= 2.2
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496369077","vehicle_dispatch":[]}}
+
+Time= 2.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496369381","vehicle_dispatch":[]}}
+
+Time= 3.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496369689","vehicle_dispatch":[]}}
+
+Time= 3.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496369999","vehicle_dispatch":[]}}
+
+Time= 3.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496370316","vehicle_dispatch":[]}}
+
+Time= 4.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496370630","vehicle_dispatch":[]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734496375770","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[98,18,16,113,129,1,91,18,126],"station_name_list":["柏纳酒店","联丰苑南1门","食品药品学院西南门","食品药品职院","食品药品学院对面","检测园东北门","长沙中车智驭","联丰苑南1门","零食很忙"],"station_arrive_time_list":["2024-12-18 12:33:46","2024-12-18 12:39:50","2024-12-18 12:41:38","2024-12-18 12:43:23","2024-12-18 12:44:22","2024-12-18 12:46:17","2024-12-18 12:48:49","2024-12-18 12:52:08","2024-12-18 12:55:50"],"station_leave_time_list":["2024-12-18 12:34:16","2024-12-18 12:40:20","2024-12-18 12:42:38","2024-12-18 12:43:53","2024-12-18 12:45:22","2024-12-18 12:46:47","2024-12-18 12:49:49","2024-12-18 12:52:38","2024-12-18 12:56:20"],"station_related_orders_list":[[{"order_id":"TEST-6-8","pax_num":1}],[{"order_id":"TEST-6-4","pax_num":1}],[{"order_id":"TEST-6-4","pax_num":-1},{"order_id":"TEST-6-1","pax_num":1}],[{"order_id":"TEST-6-5","pax_num":1}],[{"order_id":"TEST-6-1","pax_num":-1},{"order_id":"TEST-6-2","pax_num":1}],[{"order_id":"TEST-6-2","pax_num":-1}],[{"order_id":"TEST-6-3","pax_num":1},{"order_id":"TEST-6-5","pax_num":-1}],[{"order_id":"TEST-6-3","pax_num":-1}],[{"order_id":"TEST-6-8","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[125,98,102,108],"station_name_list":["渔湘四海","柏纳酒店","江山帝景北2门","博才学士中学东南1门"],"station_arrive_time_list":["2024-12-18 12:34:17","2024-12-18 12:38:59","2024-12-18 12:40:32","2024-12-18 12:43:13"],"station_leave_time_list":["2024-12-18 12:34:47","2024-12-18 12:39:29","2024-12-18 12:41:02","2024-12-18 12:43:43"],"station_related_orders_list":[[{"order_id":"TEST-6-6","pax_num":1}],[{"order_id":"TEST-6-7","pax_num":1}],[{"order_id":"TEST-6-7","pax_num":-1}],[{"order_id":"TEST-6-6","pax_num":-1}]]}]}}
+

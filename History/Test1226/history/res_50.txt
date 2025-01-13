@@ -1,0 +1,37 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007887862","vehicle_dispatch":[]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007888218","vehicle_dispatch":[]}}
+
+Time= 0.5
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007888849","vehicle_dispatch":[]}}
+
+Time= 5.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007893186","vehicle_dispatch":[]}}
+
+Time= 7.5
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007895494","vehicle_dispatch":[{"vehicle_id":1,"station_id_list":[129,2],"station_name_list":["食品药品学院对面","检测园东南门"],"station_arrive_time_list":["2024-12-24 10:40:37","2024-12-24 10:41:44"],"station_leave_time_list":["2024-12-24 10:41:07","2024-12-24 10:42:14"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":1}],[{"order_id":"TEST-50-1","pax_num":-1}]]}]}}
+
+Time= 7.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007895799","vehicle_dispatch":[{"vehicle_id":1,"station_id_list":[129,2],"station_name_list":["食品药品学院对面","检测园东南门"],"station_arrive_time_list":["2024-12-24 10:40:37","2024-12-24 10:41:44"],"station_leave_time_list":["2024-12-24 10:41:07","2024-12-24 10:42:14"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":1}],[{"order_id":"TEST-50-1","pax_num":-1}]]}]}}
+
+Time= 11.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007899118","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[114,151,15,13],"station_name_list":["联丰小区南门","车塘和小区南区-西门","汉高学士府东门","周南学士学校东南门"],"station_arrive_time_list":["2024-12-24 10:40:40","2024-12-24 10:44:27","2024-12-24 10:52:40","2024-12-24 10:55:22"],"station_leave_time_list":["2024-12-24 10:41:10","2024-12-24 10:44:57","2024-12-24 10:53:10","2024-12-24 10:55:52"],"station_related_orders_list":[[{"order_id":"TEST-50-3","pax_num":1}],[{"order_id":"TEST-50-3","pax_num":-1}],[{"order_id":"TEST-50-2","pax_num":1}],[{"order_id":"TEST-50-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[129,2],"station_name_list":["食品药品学院对面","检测园东南门"],"station_arrive_time_list":["2024-12-24 10:40:37","2024-12-24 10:41:44"],"station_leave_time_list":["2024-12-24 10:41:07","2024-12-24 10:42:14"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":1}],[{"order_id":"TEST-50-1","pax_num":-1}]]}]}}
+
+Time= 62.4
+vehicle_arrive {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007950309","vehicle_dispatch":[{"vehicle_id":1,"station_id_list":[2,152,100],"station_name_list":["检测园东南门","江山帝景哈佛西2门","中医药大学东门"],"station_arrive_time_list":["2024-12-24 10:41:54","2024-12-24 10:48:06","2024-12-24 10:51:28"],"station_leave_time_list":["2024-12-24 10:42:24","2024-12-24 10:48:36","2024-12-24 10:51:58"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":-1}],[{"order_id":"TEST-50-4","pax_num":1}],[{"order_id":"TEST-50-4","pax_num":-1}]]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007950444","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[114,151,15,13],"station_name_list":["联丰小区南门","车塘和小区南区-西门","汉高学士府东门","周南学士学校东南门"],"station_arrive_time_list":["2024-12-24 10:40:40","2024-12-24 10:44:27","2024-12-24 10:52:40","2024-12-24 10:55:22"],"station_leave_time_list":["2024-12-24 10:41:10","2024-12-24 10:44:57","2024-12-24 10:53:10","2024-12-24 10:55:52"],"station_related_orders_list":[[{"order_id":"TEST-50-3","pax_num":1}],[{"order_id":"TEST-50-3","pax_num":-1}],[{"order_id":"TEST-50-2","pax_num":1}],[{"order_id":"TEST-50-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,152,100],"station_name_list":["检测园东南门","江山帝景哈佛西2门","中医药大学东门"],"station_arrive_time_list":["2024-12-24 10:41:54","2024-12-24 10:48:06","2024-12-24 10:51:28"],"station_leave_time_list":["2024-12-24 10:42:24","2024-12-24 10:48:36","2024-12-24 10:51:58"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":-1}],[{"order_id":"TEST-50-4","pax_num":1}],[{"order_id":"TEST-50-4","pax_num":-1}]]}]}}
+
+Time= 62.7
+vehicle_arrive {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007950622","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,15,13],"station_name_list":["车塘和小区南区-西门","汉高学士府东门","周南学士学校东南门"],"station_arrive_time_list":["2024-12-24 10:44:27","2024-12-24 10:52:40","2024-12-24 10:55:22"],"station_leave_time_list":["2024-12-24 10:44:57","2024-12-24 10:53:10","2024-12-24 10:55:52"],"station_related_orders_list":[[{"order_id":"TEST-50-3","pax_num":-1}],[{"order_id":"TEST-50-2","pax_num":1}],[{"order_id":"TEST-50-2","pax_num":-1}]]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007950755","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,15,13],"station_name_list":["车塘和小区南区-西门","汉高学士府东门","周南学士学校东南门"],"station_arrive_time_list":["2024-12-24 10:44:27","2024-12-24 10:52:40","2024-12-24 10:55:22"],"station_leave_time_list":["2024-12-24 10:44:57","2024-12-24 10:53:10","2024-12-24 10:55:52"],"station_related_orders_list":[[{"order_id":"TEST-50-3","pax_num":-1}],[{"order_id":"TEST-50-2","pax_num":1}],[{"order_id":"TEST-50-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,152,100],"station_name_list":["检测园东南门","江山帝景哈佛西2门","中医药大学东门"],"station_arrive_time_list":["2024-12-24 10:41:54","2024-12-24 10:48:06","2024-12-24 10:51:28"],"station_leave_time_list":["2024-12-24 10:42:24","2024-12-24 10:48:36","2024-12-24 10:51:58"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":-1}],[{"order_id":"TEST-50-4","pax_num":1}],[{"order_id":"TEST-50-4","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735007955896","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,15,13],"station_name_list":["车塘和小区南区-西门","汉高学士府东门","周南学士学校东南门"],"station_arrive_time_list":["2024-12-24 10:44:27","2024-12-24 10:52:40","2024-12-24 10:55:22"],"station_leave_time_list":["2024-12-24 10:44:57","2024-12-24 10:53:10","2024-12-24 10:55:52"],"station_related_orders_list":[[{"order_id":"TEST-50-3","pax_num":-1}],[{"order_id":"TEST-50-2","pax_num":1}],[{"order_id":"TEST-50-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,152,100],"station_name_list":["检测园东南门","江山帝景哈佛西2门","中医药大学东门"],"station_arrive_time_list":["2024-12-24 10:41:54","2024-12-24 10:48:06","2024-12-24 10:51:28"],"station_leave_time_list":["2024-12-24 10:42:24","2024-12-24 10:48:36","2024-12-24 10:51:58"],"station_related_orders_list":[[{"order_id":"TEST-50-1","pax_num":-1}],[{"order_id":"TEST-50-4","pax_num":1}],[{"order_id":"TEST-50-4","pax_num":-1}]]}]}}
+

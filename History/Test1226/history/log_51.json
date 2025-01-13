@@ -1,0 +1,9 @@
+{"sec": 0, "action": "start", "data": {}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 1, "lat": 28.130810020472858, "lon": 112.90128830115326, "station": 105, "status": 1, "direction": 0}]}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 2, "lat": 28.141954330046808, "lon": 112.91175267417421, "station": 151, "status": 1, "direction": 0}]}}
+{"sec": 4, "action": "order", "data": {"region_id": 1, "order_id": "TESTB-50-1", "pax_num": 1, "order_time": "2024-12-24 10:00:04", "available_pickup_station_list": [129], "available_pickup_walkingtime_list": [0], "available_dropoff_station_list": [2], "available_dropoff_walkingtime_list": [0]}}
+{"sec": 6, "action": "order", "data": {"region_id": 1, "order_id": "TESTB-50-2", "pax_num": 1, "order_time": "2024-12-24 10:00:06", "available_pickup_station_list": [15], "available_pickup_walkingtime_list": [0], "available_dropoff_station_list": [13], "available_dropoff_walkingtime_list": [0]}}
+{"sec": 6, "action": "order", "data": {"region_id": 1, "order_id": "TESTB-50-3", "pax_num": 1, "order_time": "2024-12-24 10:00:06", "available_pickup_station_list": [114], "available_pickup_walkingtime_list": [0], "available_dropoff_station_list": [151], "available_dropoff_walkingtime_list": [0]}}
+{"sec": 9, "action": "order", "data": {"region_id": 1, "order_id": "TESTB-50-4", "pax_num": 1, "order_time": "2024-12-24 10:00:09", "available_pickup_station_list": [152], "available_pickup_walkingtime_list": [0], "available_dropoff_station_list": [100], "available_dropoff_walkingtime_list": [0]}}
+{"sec": 60, "action": "vehicle_arrive", "data": {"region_id": 1, "vehicle_id": 1, "station_id": 129, "pickup_order_id": ["TESTB-50-1"], "dropoff_order_id": []}}
+{"sec": 60, "action": "vehicle_arrive", "data": {"region_id": 1, "vehicle_id": 2, "station_id": 114, "pickup_order_id": [], "dropoff_order_id": []}}

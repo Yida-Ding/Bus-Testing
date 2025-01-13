@@ -1,0 +1,7 @@
+{"sec": 0, "action": "start", "data": {}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 1, "lat": 28.132143377422175, "lon": 112.89226649268834, "station": 13, "status": 1, "direction": 0}]}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 2, "lat": 28.13039068376608, "lon": 112.88994411613294, "station": 9, "status": 1, "direction": 0}]}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 3, "lat": 28.131604901031995, "lon": 112.89454689616502, "station": 25, "status": 1, "direction": 0}]}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 4, "lat": 28.13814561232112, "lon": 112.90367337946118, "station": 100, "status": 1, "direction": 0}]}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 5, "lat": 28.136824954483295, "lon": 112.91462633427902, "station": 102, "status": 1, "direction": 0}]}}
+{"sec": 0, "action": "vehicle_location", "data": {"region_id": 1, "vehicle_location": [{"vehicle_id": 6, "lat": 28.131639659702596, "lon": 112.90343529748803, "station": 126, "status": 1, "direction": 0}]}}

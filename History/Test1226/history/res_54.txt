@@ -1,0 +1,25 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031411104","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[148],"station_name_list":["洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:15:48"],"station_leave_time_list":["2024-12-24 17:16:18"],"station_related_orders_list":[[{"order_id":"TEST-55-3","pax_num":-1}],[{"order_id":"TEST-55-2","pax_num":-1}]]}]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031411386","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[148],"station_name_list":["洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:15:48"],"station_leave_time_list":["2024-12-24 17:16:18"],"station_related_orders_list":[[{"order_id":"TEST-55-3","pax_num":-1}],[{"order_id":"TEST-55-2","pax_num":-1}]]}]}}
+
+Time= 6.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031417768","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[148],"station_name_list":["洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:15:48"],"station_leave_time_list":["2024-12-24 17:16:18"],"station_related_orders_list":[[{"order_id":"TEST-55-3","pax_num":-1}],[{"order_id":"TEST-55-2","pax_num":-1}]]}]}}
+
+Time= 6.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031418133","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[148],"station_name_list":["洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:15:48"],"station_leave_time_list":["2024-12-24 17:16:18"],"station_related_orders_list":[[{"order_id":"TEST-55-3","pax_num":-1}],[{"order_id":"TEST-55-2","pax_num":-1}]]}]}}
+
+Time= 11.2
+vehicle_arrive {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031422306","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,152,148],"station_name_list":["车塘和小区南区-西门","江山帝景哈佛西2门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:10:50","2024-12-24 17:14:04","2024-12-24 17:18:28"],"station_leave_time_list":["2024-12-24 17:11:20","2024-12-24 17:15:04","2024-12-24 17:18:58"],"station_related_orders_list":[[{"order_id":"TEST-54-3","pax_num":1}],[{"order_id":"TEST-54-3","pax_num":-1}],[{"order_id":"TEST-54-2","pax_num":-1}]]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031422440","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,152,148],"station_name_list":["车塘和小区南区-西门","江山帝景哈佛西2门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:10:50","2024-12-24 17:14:04","2024-12-24 17:18:28"],"station_leave_time_list":["2024-12-24 17:11:20","2024-12-24 17:15:04","2024-12-24 17:18:58"],"station_related_orders_list":[[{"order_id":"TEST-54-3","pax_num":1}],[{"order_id":"TEST-54-3","pax_num":-1}],[{"order_id":"TEST-54-2","pax_num":-1}]]}]}}
+
+Time= 21.5
+vehicle_arrive {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031432599","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,152,148],"station_name_list":["车塘和小区南区-西门","江山帝景哈佛西2门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:10:50","2024-12-24 17:14:04","2024-12-24 17:18:28"],"station_leave_time_list":["2024-12-24 17:11:20","2024-12-24 17:15:04","2024-12-24 17:18:58"],"station_related_orders_list":[[{"order_id":"TEST-54-3","pax_num":1}],[{"order_id":"TEST-54-3","pax_num":-1}],[{"order_id":"TEST-54-2","pax_num":-1}]]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031432736","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,152,148],"station_name_list":["车塘和小区南区-西门","江山帝景哈佛西2门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:10:50","2024-12-24 17:14:04","2024-12-24 17:18:28"],"station_leave_time_list":["2024-12-24 17:11:20","2024-12-24 17:15:04","2024-12-24 17:18:58"],"station_related_orders_list":[[{"order_id":"TEST-54-3","pax_num":1}],[{"order_id":"TEST-54-3","pax_num":-1}],[{"order_id":"TEST-54-2","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735031437884","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,152,148],"station_name_list":["车塘和小区南区-西门","江山帝景哈佛西2门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 17:10:50","2024-12-24 17:14:04","2024-12-24 17:18:28"],"station_leave_time_list":["2024-12-24 17:11:20","2024-12-24 17:15:04","2024-12-24 17:18:58"],"station_related_orders_list":[[{"order_id":"TEST-54-3","pax_num":1}],[{"order_id":"TEST-54-3","pax_num":-1}],[{"order_id":"TEST-54-2","pax_num":-1}]]}]}}
+

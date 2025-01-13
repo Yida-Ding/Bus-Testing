@@ -1,0 +1,53 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306697135","vehicle_dispatch":[]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306697474","vehicle_dispatch":[]}}
+
+Time= 0.5
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306697768","vehicle_dispatch":[]}}
+
+Time= 2.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306700115","vehicle_dispatch":[]}}
+
+Time= 4.1
+order {"code":1006,"message":"站点不存在[21,11]","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306701412","vehicle_dispatch":[]}}
+
+Time= 8.4
+order {"code":1006,"message":"站点不存在[13]","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306705715","vehicle_dispatch":[{"vehicle_id":1,"station_id_list":[2,126],"station_name_list":["检测园东南门","枫华府第西北1门"],"station_arrive_time_list":["2024-12-27 21:40:03","2024-12-27 21:43:29"],"station_leave_time_list":["2024-12-27 21:40:33","2024-12-27 21:43:59"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}]]}]}}
+
+Time= 8.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306706076","vehicle_dispatch":[{"vehicle_id":1,"station_id_list":[2,126],"station_name_list":["检测园东南门","枫华府第西北1门"],"station_arrive_time_list":["2024-12-27 21:40:03","2024-12-27 21:43:29"],"station_leave_time_list":["2024-12-27 21:40:33","2024-12-27 21:43:59"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}]]}]}}
+
+Time= 12.1
+order {"code":1006,"message":"站点不存在[11]","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306709373","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129],"station_name_list":["食品药品学院北门","食品药品学院对面"],"station_arrive_time_list":["2024-12-27 21:44:36","2024-12-27 21:45:41"],"station_leave_time_list":["2024-12-27 21:45:06","2024-12-27 21:46:11"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126],"station_name_list":["检测园东南门","枫华府第西北1门"],"station_arrive_time_list":["2024-12-27 21:40:03","2024-12-27 21:43:29"],"station_leave_time_list":["2024-12-27 21:40:33","2024-12-27 21:43:59"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}]]}]}}
+
+Time= 12.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306709705","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129],"station_name_list":["食品药品学院北门","食品药品学院对面"],"station_arrive_time_list":["2024-12-27 21:44:36","2024-12-27 21:45:41"],"station_leave_time_list":["2024-12-27 21:45:06","2024-12-27 21:46:11"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126],"station_name_list":["检测园东南门","枫华府第西北1门"],"station_arrive_time_list":["2024-12-27 21:40:03","2024-12-27 21:43:29"],"station_leave_time_list":["2024-12-27 21:40:33","2024-12-27 21:43:59"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}]]}]}}
+
+Time= 15.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306713052","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129],"station_name_list":["食品药品学院北门","食品药品学院对面"],"station_arrive_time_list":["2024-12-27 21:44:36","2024-12-27 21:45:41"],"station_leave_time_list":["2024-12-27 21:45:06","2024-12-27 21:46:11"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126],"station_name_list":["检测园东南门","枫华府第西北1门"],"station_arrive_time_list":["2024-12-27 21:40:03","2024-12-27 21:43:29"],"station_leave_time_list":["2024-12-27 21:40:33","2024-12-27 21:43:59"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}]]}]}}
+
+Time= 18.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306715381","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129],"station_name_list":["食品药品学院北门","食品药品学院对面"],"station_arrive_time_list":["2024-12-27 21:44:36","2024-12-27 21:45:41"],"station_leave_time_list":["2024-12-27 21:45:06","2024-12-27 21:46:11"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126,98,148,147,145],"station_name_list":["检测园东南门","枫华府第西北1门","柏纳酒店","洋湖时代东南门","洋湖时代西门","含浦家苑东门"],"station_arrive_time_list":["2024-12-27 21:40:13","2024-12-27 21:43:38","2024-12-27 21:47:38","2024-12-27 21:50:14","2024-12-27 21:51:40","2024-12-27 21:54:56"],"station_leave_time_list":["2024-12-27 21:40:43","2024-12-27 21:44:08","2024-12-27 21:48:08","2024-12-27 21:50:44","2024-12-27 21:52:10","2024-12-27 21:55:26"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}],[{"order_id":"TEST-56-6","pax_num":1}],[{"order_id":"TEST-56-6","pax_num":-1}],[{"order_id":"TEST-56-7","pax_num":1}],[{"order_id":"TEST-56-7","pax_num":-1}]]}]}}
+
+Time= 21.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306718724","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129],"station_name_list":["食品药品学院北门","食品药品学院对面"],"station_arrive_time_list":["2024-12-27 21:44:36","2024-12-27 21:45:41"],"station_leave_time_list":["2024-12-27 21:45:06","2024-12-27 21:46:11"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126,98,148,147,145],"station_name_list":["检测园东南门","枫华府第西北1门","柏纳酒店","洋湖时代东南门","洋湖时代西门","含浦家苑东门"],"station_arrive_time_list":["2024-12-27 21:40:13","2024-12-27 21:43:38","2024-12-27 21:47:38","2024-12-27 21:50:14","2024-12-27 21:51:40","2024-12-27 21:54:56"],"station_leave_time_list":["2024-12-27 21:40:43","2024-12-27 21:44:08","2024-12-27 21:48:08","2024-12-27 21:50:44","2024-12-27 21:52:10","2024-12-27 21:55:26"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}],[{"order_id":"TEST-56-6","pax_num":1}],[{"order_id":"TEST-56-6","pax_num":-1}],[{"order_id":"TEST-56-7","pax_num":1}],[{"order_id":"TEST-56-7","pax_num":-1}]]}]}}
+
+Time= 23.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306721052","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129,114,145,99,149],"station_name_list":["食品药品学院北门","食品药品学院对面","联丰小区南门","含浦家苑东门","江山帝景五期东北门","象山国际东南1门"],"station_arrive_time_list":["2024-12-27 21:44:46","2024-12-27 21:45:51","2024-12-27 21:53:21","2024-12-27 21:56:25","2024-12-27 22:01:35","2024-12-27 22:03:18"],"station_leave_time_list":["2024-12-27 21:45:16","2024-12-27 21:46:21","2024-12-27 21:53:51","2024-12-27 21:56:55","2024-12-27 22:02:05","2024-12-27 22:03:48"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}],[{"order_id":"TEST-56-8","pax_num":1}],[{"order_id":"TEST-56-9","pax_num":1}],[{"order_id":"TEST-56-9","pax_num":-1}],[{"order_id":"TEST-56-8","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126,98,148,147,145],"station_name_list":["检测园东南门","枫华府第西北1门","柏纳酒店","洋湖时代东南门","洋湖时代西门","含浦家苑东门"],"station_arrive_time_list":["2024-12-27 21:40:13","2024-12-27 21:43:38","2024-12-27 21:47:38","2024-12-27 21:50:14","2024-12-27 21:51:40","2024-12-27 21:54:56"],"station_leave_time_list":["2024-12-27 21:40:43","2024-12-27 21:44:08","2024-12-27 21:48:08","2024-12-27 21:50:44","2024-12-27 21:52:10","2024-12-27 21:55:26"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}],[{"order_id":"TEST-56-6","pax_num":1}],[{"order_id":"TEST-56-6","pax_num":-1}],[{"order_id":"TEST-56-7","pax_num":1}],[{"order_id":"TEST-56-7","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735306726206","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[22,129,114,145,99,149],"station_name_list":["食品药品学院北门","食品药品学院对面","联丰小区南门","含浦家苑东门","江山帝景五期东北门","象山国际东南1门"],"station_arrive_time_list":["2024-12-27 21:44:46","2024-12-27 21:45:51","2024-12-27 21:53:21","2024-12-27 21:56:25","2024-12-27 22:01:35","2024-12-27 22:03:18"],"station_leave_time_list":["2024-12-27 21:45:16","2024-12-27 21:46:21","2024-12-27 21:53:51","2024-12-27 21:56:55","2024-12-27 22:02:05","2024-12-27 22:03:48"],"station_related_orders_list":[[{"order_id":"TEST-56-4","pax_num":1}],[{"order_id":"TEST-56-4","pax_num":-1}],[{"order_id":"TEST-56-8","pax_num":1}],[{"order_id":"TEST-56-9","pax_num":1}],[{"order_id":"TEST-56-9","pax_num":-1}],[{"order_id":"TEST-56-8","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,126,98,148,147,101,145,99],"station_name_list":["检测园东南门","枫华府第西北1门","柏纳酒店","洋湖时代东南门","洋湖时代西门","裕园小区西门","含浦家苑东门","江山帝景五期东北门"],"station_arrive_time_list":["2024-12-27 21:40:23","2024-12-27 21:43:48","2024-12-27 21:47:48","2024-12-27 21:50:24","2024-12-27 21:51:50","2024-12-27 21:53:09","2024-12-27 21:55:34","2024-12-27 22:00:45"],"station_leave_time_list":["2024-12-27 21:40:53","2024-12-27 21:44:18","2024-12-27 21:48:18","2024-12-27 21:50:54","2024-12-27 21:52:20","2024-12-27 21:53:39","2024-12-27 21:56:04","2024-12-27 22:01:15"],"station_related_orders_list":[[{"order_id":"TEST-56-1","pax_num":1}],[{"order_id":"TEST-56-1","pax_num":-1}],[{"order_id":"TEST-56-6","pax_num":1}],[{"order_id":"TEST-56-6","pax_num":-1}],[{"order_id":"TEST-56-7","pax_num":1}],[{"order_id":"TEST-56-10","pax_num":1}],[{"order_id":"TEST-56-7","pax_num":-1}],[{"order_id":"TEST-56-10","pax_num":-1}]]}]}}
+

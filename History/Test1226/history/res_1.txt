@@ -1,0 +1,98 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447452174","vehicle_dispatch":[]}}
+
+Time= 0.4
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447452443","vehicle_dispatch":[]}}
+
+Time= 0.7
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447452739","vehicle_dispatch":[]}}
+
+Time= 1.0
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447453009","vehicle_dispatch":[]}}
+
+Time= 1.3
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447453277","vehicle_dispatch":[]}}
+
+Time= 1.5
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447453546","vehicle_dispatch":[]}}
+
+Time= 1.8
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447453817","vehicle_dispatch":[]}}
+
+Time= 5.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447457140","vehicle_dispatch":[]}}
+
+Time= 5.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447457787","vehicle_dispatch":[]}}
+
+Time= 6.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447458093","vehicle_dispatch":[]}}
+
+Time= 8.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447460707","vehicle_dispatch":[]}}
+
+Time= 9.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447461023","vehicle_dispatch":[]}}
+
+Time= 12.3
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447464333","vehicle_dispatch":[]}}
+
+Time= 14.6
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447466966","vehicle_dispatch":[]}}
+
+Time= 17.2
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447469281","vehicle_dispatch":[]}}
+
+Time= 17.5
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447469591","vehicle_dispatch":[]}}
+
+Time= 20.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447472916","vehicle_dispatch":[]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447478051","vehicle_dispatch":[]}}
+
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447898169","vehicle_dispatch":[]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447898439","vehicle_dispatch":[]}}
+
+Time= 0.4
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447899008","vehicle_dispatch":[]}}
+
+Time= 1.0
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447899285","vehicle_dispatch":[]}}
+
+Time= 1.3
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447899554","vehicle_dispatch":[]}}
+
+Time= 1.5
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447899822","vehicle_dispatch":[]}}
+
+Time= 1.8
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447900097","vehicle_dispatch":[]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734447905233","vehicle_dispatch":[{"vehicle_id":3,"station_id_list":[16,21,125,99,107],"station_name_list":["食品药品学院西南门","食品药品学院东南门","渔湘四海","江山帝景五期东北门","联丰小区南3门"],"station_arrive_time_list":["2024-12-17 23:07:18","2024-12-17 23:09:49","2024-12-17 23:13:19","2024-12-17 23:18:23","2024-12-17 23:23:55"],"station_leave_time_list":["2024-12-17 23:07:48","2024-12-17 23:10:19","2024-12-17 23:13:49","2024-12-17 23:18:53","2024-12-17 23:24:55"],"station_related_orders_list":[[{"order_id":"TEST-1-5","pax_num":1}],[{"order_id":"TEST-1-5","pax_num":-1}],[{"order_id":"TEST-1-9","pax_num":1}],[{"order_id":"TEST-1-8","pax_num":1}],[{"order_id":"TEST-1-9","pax_num":-1},{"order_id":"TEST-1-8","pax_num":-1}]]},{"vehicle_id":2,"station_id_list":[102,105],"station_name_list":["江山帝景北2门","中医药大学南门"],"station_arrive_time_list":["2024-12-17 23:12:20","2024-12-17 23:16:51"],"station_leave_time_list":["2024-12-17 23:12:50","2024-12-17 23:17:21"],"station_related_orders_list":[[{"order_id":"TJ17-4","pax_num":1}],[{"order_id":"TJ17-4","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[1,129,21,107,106],"station_name_list":["检测园东北门","食品药品学院对面","食品药品学院东南门","联丰小区南3门","含浦家苑南门"],"station_arrive_time_list":["2024-12-17 23:06:36","2024-12-17 23:08:14","2024-12-17 23:12:06","2024-12-17 23:20:25","2024-12-17 23:24:38"],"station_leave_time_list":["2024-12-17 23:07:06","2024-12-17 23:09:14","2024-12-17 23:12:36","2024-12-17 23:20:55","2024-12-17 23:25:08"],"station_related_orders_list":[[{"order_id":"TJ17-1","pax_num":1}],[{"order_id":"TJ17-1","pax_num":-1},{"order_id":"TJ17-2","pax_num":1}],[{"order_id":"TJ17-2","pax_num":-1}],[{"order_id":"TJ17-3","pax_num":1}],[{"order_id":"TJ17-3","pax_num":-1}]]},{"vehicle_id":4,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":5,"station_id_list":[98,107,100,105,22,28,129,1,18,26,25,22,125],"station_name_list":["柏纳酒店","联丰小区南3门","中医药大学东门","中医药大学南门","食品药品学院北门","上药控股","食品药品学院对面","检测园东北门","联丰苑南1门","学士翰林苑","比扬医疗","食品药品学院北门","渔湘四海"],"station_arrive_time_list":["2024-12-17 23:05:54","2024-12-17 23:08:42","2024-12-17 23:10:44","2024-12-17 23:13:50","2024-12-17 23:15:44","2024-12-17 23:16:39","2024-12-17 23:17:32","2024-12-17 23:18:57","2024-12-17 23:19:48","2024-12-17 23:22:04","2024-12-17 23:23:38","2024-12-17 23:24:56","2024-12-17 23:26:21"],"station_leave_time_list":["2024-12-17 23:06:24","2024-12-17 23:09:12","2024-12-17 23:11:14","2024-12-17 23:14:20","2024-12-17 23:16:14","2024-12-17 23:17:09","2024-12-17 23:18:02","2024-12-17 23:19:27","2024-12-17 23:20:18","2024-12-17 23:22:34","2024-12-17 23:24:08","2024-12-17 23:25:26","2024-12-17 23:27:21"],"station_related_orders_list":[[{"order_id":"TEST-1-10","pax_num":1}],[{"order_id":"TEST-1-6","pax_num":1}],[{"order_id":"TEST-1-6","pax_num":-1}],[{"order_id":"TEST-1-7","pax_num":1}],[{"order_id":"TEST-1-4","pax_num":1}],[{"order_id":"TEST-1-1","pax_num":1}],[{"order_id":"TEST-1-1","pax_num":-1}],[{"order_id":"TEST-1-2","pax_num":1}],[{"order_id":"TEST-1-3","pax_num":1}],[{"order_id":"TEST-1-4","pax_num":-1}],[{"order_id":"TEST-1-3","pax_num":-1}],[{"order_id":"TEST-1-2","pax_num":-1}],[{"order_id":"TEST-1-10","pax_num":-1},{"order_id":"TEST-1-7","pax_num":-1}]]}]}}
+

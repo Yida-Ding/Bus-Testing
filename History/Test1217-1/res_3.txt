@@ -1,0 +1,29 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415846124","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.2
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415846429","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.5
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415847027","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 4.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415850394","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 5.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415851726","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 7.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415854066","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 11.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415857398","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[128,28,18,129,15,101],"station_name_list":["枫华府第西北3门对面","上药控股","联丰苑南1门","食品药品学院对面","汉高学士府东门","裕园小区西门"],"station_arrive_time_list":["2024-12-17 14:14:53","2024-12-17 14:17:44","2024-12-17 14:18:50","2024-12-17 14:20:16","2024-12-17 14:22:04","2024-12-17 14:27:18"],"station_leave_time_list":["2024-12-17 14:15:23","2024-12-17 14:18:14","2024-12-17 14:19:20","2024-12-17 14:20:46","2024-12-17 14:22:34","2024-12-17 14:27:48"],"station_related_orders_list":[[{"order_id":"TC17-3","pax_num":1}],[{"order_id":"TC17-1","pax_num":1}],[{"order_id":"TC17-1","pax_num":-1}],[{"order_id":"TC17-2","pax_num":1}],[{"order_id":"TC17-2","pax_num":-1}],[{"order_id":"TC17-3","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734415862542","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[128,28,18,129,15,101],"station_name_list":["枫华府第西北3门对面","上药控股","联丰苑南1门","食品药品学院对面","汉高学士府东门","裕园小区西门"],"station_arrive_time_list":["2024-12-17 14:14:58","2024-12-17 14:17:49","2024-12-17 14:18:55","2024-12-17 14:20:21","2024-12-17 14:22:09","2024-12-17 14:27:23"],"station_leave_time_list":["2024-12-17 14:15:28","2024-12-17 14:18:19","2024-12-17 14:19:25","2024-12-17 14:20:51","2024-12-17 14:22:39","2024-12-17 14:27:53"],"station_related_orders_list":[[{"order_id":"TC17-3","pax_num":1}],[{"order_id":"TC17-1","pax_num":1}],[{"order_id":"TC17-1","pax_num":-1}],[{"order_id":"TC17-2","pax_num":1}],[{"order_id":"TC17-2","pax_num":-1}],[{"order_id":"TC17-3","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[99],"station_name_list":["江山帝景五期东北门"],"station_arrive_time_list":["2024-12-17 14:18:13"],"station_leave_time_list":["2024-12-17 14:19:13"],"station_related_orders_list":[[{"order_id":"TC17-4","pax_num":1},{"order_id":"TC17-4","pax_num":-1}]]}]}}
+

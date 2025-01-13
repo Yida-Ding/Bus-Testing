@@ -1,0 +1,37 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605912800","vehicle_dispatch":[]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605913436","vehicle_dispatch":[]}}
+
+Time= 0.8
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605913744","vehicle_dispatch":[]}}
+
+Time= 4.1
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605917095","vehicle_dispatch":[]}}
+
+Time= 4.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605917397","vehicle_dispatch":[]}}
+
+Time= 4.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605917692","vehicle_dispatch":[]}}
+
+Time= 6.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605919033","vehicle_dispatch":[]}}
+
+Time= 9.4
+order_cancel {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605922229","vehicle_dispatch":[{"vehicle_id":1,"station_id_list":[22,146,152],"station_name_list":["食品药品学院北门","裕园小区南门","江山帝景哈佛西2门"],"station_arrive_time_list":["2024-12-19 19:04:42","2024-12-19 19:10:05","2024-12-19 19:12:55"],"station_leave_time_list":["2024-12-19 19:05:42","2024-12-19 19:10:35","2024-12-19 19:13:25"],"station_related_orders_list":[[{"order_id":"TEST-39-2","pax_num":1},{"order_id":"TEST-39-2","pax_num":-1}],[{"order_id":"TEST-39-4","pax_num":1}],[{"order_id":"TEST-39-4","pax_num":-1}]]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605922354","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[149,146],"station_name_list":["象山国际东南1门","裕园小区南门"],"station_arrive_time_list":["2024-12-19 19:03:27","2024-12-19 19:10:23"],"station_leave_time_list":["2024-12-19 19:03:57","2024-12-19 19:10:53"],"station_related_orders_list":[[{"order_id":"TEST-39-3","pax_num":1}],[{"order_id":"TEST-39-3","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[22,146,152],"station_name_list":["食品药品学院北门","裕园小区南门","江山帝景哈佛西2门"],"station_arrive_time_list":["2024-12-19 19:04:42","2024-12-19 19:10:05","2024-12-19 19:12:55"],"station_leave_time_list":["2024-12-19 19:05:42","2024-12-19 19:10:35","2024-12-19 19:13:25"],"station_related_orders_list":[[{"order_id":"TEST-39-2","pax_num":1},{"order_id":"TEST-39-2","pax_num":-1}],[{"order_id":"TEST-39-4","pax_num":1}],[{"order_id":"TEST-39-4","pax_num":-1}]]}]}}
+
+Time= 13.7
+order_cancel {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605926544","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605926682","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[22,146,152],"station_name_list":["食品药品学院北门","裕园小区南门","江山帝景哈佛西2门"],"station_arrive_time_list":["2024-12-19 19:04:42","2024-12-19 19:10:05","2024-12-19 19:12:55"],"station_leave_time_list":["2024-12-19 19:05:42","2024-12-19 19:10:35","2024-12-19 19:13:25"],"station_related_orders_list":[[{"order_id":"TEST-39-2","pax_num":1},{"order_id":"TEST-39-2","pax_num":-1}],[{"order_id":"TEST-39-4","pax_num":1}],[{"order_id":"TEST-39-4","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734605931819","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[22,146,152],"station_name_list":["食品药品学院北门","裕园小区南门","江山帝景哈佛西2门"],"station_arrive_time_list":["2024-12-19 19:04:42","2024-12-19 19:10:05","2024-12-19 19:12:55"],"station_leave_time_list":["2024-12-19 19:05:42","2024-12-19 19:10:35","2024-12-19 19:13:25"],"station_related_orders_list":[[{"order_id":"TEST-39-2","pax_num":1},{"order_id":"TEST-39-2","pax_num":-1}],[{"order_id":"TEST-39-4","pax_num":1}],[{"order_id":"TEST-39-4","pax_num":-1}]]}]}}
+

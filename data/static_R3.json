@@ -1,0 +1,66 @@
+{
+  "region_id": 3,
+  "region_name": "清华自动驾驶测试",
+  "stations": [
+    {
+      "station_id": 1,
+      "station_name": "法律图书馆站",
+      "station_lon": 116.32210863888837,
+      "station_lat": 39.997634872178146
+    },
+    {
+      "station_id": 2,
+      "station_name": "新清华学堂站",
+      "station_lon": 116.3217882675787,
+      "station_lat": 39.999666319522625
+    },
+    {
+      "station_id": 3,
+      "station_name": "二校门站",
+      "station_lon": 116.31830671595594,
+      "station_lat": 39.99959295719394
+    },
+    {
+      "station_id": 4,
+      "station_name": "甲所餐厅站",
+      "station_lon": 116.31556065647615,
+      "station_lat": 40.000205325227256
+    },
+    {
+      "station_id": 5,
+      "station_name": "中2楼站",
+      "station_lon": 116.31454826232675,
+      "station_lat": 40.00227708910067
+    },
+    {
+      "station_id": 6,
+      "station_name": "校医院站",
+      "station_lon": 116.31271698759267,
+      "station_lat": 40.00124406143508
+    },
+    {
+      "station_id": 7,
+      "station_name": "西湖游泳馆站",
+      "station_lon": 116.31277843972106,
+      "station_lat": 39.99870860795078
+    },
+    {
+      "station_id": 8,
+      "station_name": "中楼站",
+      "station_lon": 116.31575522429242,
+      "station_lat": 39.99751353959105
+    },
+    {
+      "station_id": 9,
+      "station_name": "熊知行楼站",
+      "station_lon": 116.31757176213951,
+      "station_lat": 39.99628804600917
+    },
+    {
+      "station_id": 10,
+      "station_name": "照澜院站",
+      "station_lon": 116.31975203793615,
+      "station_lat": 39.99660638065481
+    }
+  ]
+}

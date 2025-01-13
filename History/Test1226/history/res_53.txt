@@ -1,0 +1,21 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029023908","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029024188","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 6.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029030534","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 6.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029030861","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 31.1
+vehicle_arrive {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029055062","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,148],"station_name_list":["车塘和小区南区-西门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 16:31:03","2024-12-24 16:38:40"],"station_leave_time_list":["2024-12-24 16:31:33","2024-12-24 16:39:10"],"station_related_orders_list":[[{"order_id":"TESTB-53-3","pax_num":1}],[{"order_id":"TESTB-53-2","pax_num":-1}]]}]}}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029055198","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,148],"station_name_list":["车塘和小区南区-西门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 16:31:03","2024-12-24 16:38:40"],"station_leave_time_list":["2024-12-24 16:31:33","2024-12-24 16:39:10"],"station_related_orders_list":[[{"order_id":"TESTB-53-3","pax_num":1}],[{"order_id":"TESTB-53-2","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1735029060351","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[151,148],"station_name_list":["车塘和小区南区-西门","洋湖时代东南门"],"station_arrive_time_list":["2024-12-24 16:31:03","2024-12-24 16:38:40"],"station_leave_time_list":["2024-12-24 16:31:33","2024-12-24 16:39:10"],"station_related_orders_list":[[{"order_id":"TESTB-53-3","pax_num":1}],[{"order_id":"TESTB-53-2","pax_num":-1}]]}]}}
+

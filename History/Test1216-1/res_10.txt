@@ -1,0 +1,15 @@
+Time= 0.0
+Time= 0.0
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 3.3
+order {"code":0,"message":"成功","data":null}
+Time= 6.5
+order {"code":0,"message":"成功","data":null}
+Time= 11.0
+order {"code":0,"message":"成功","data":null}
+Time= 11.2
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734336936837","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[14,13,28,22],"station_name_list":["汉高学士府东北门","周南学士学校东南门","上药控股","食品药品学院北门"],"station_arrive_time_list":["2024-12-16 16:16:39","2024-12-16 16:18:48","2024-12-16 16:20:24","2024-12-16 16:21:21"],"station_leave_time_list":["2024-12-16 16:17:09","2024-12-16 16:19:18","2024-12-16 16:20:54","2024-12-16 16:21:51"],"station_related_orders_list":[[{"order_id":"TA10-2","pax_num":1}],[{"order_id":"TA10-1","pax_num":1}],[{"order_id":"TA10-1","pax_num":-1}],[{"order_id":"TA10-2","pax_num":-1}]]}]}}
+

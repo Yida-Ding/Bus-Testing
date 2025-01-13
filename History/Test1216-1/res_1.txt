@@ -1,0 +1,15 @@
+Time= 0.0
+Time= 0.0
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+Time= 4.3
+order {"code":0,"message":"成功","data":null}
+Time= 5.5
+order {"code":0,"message":"成功","data":null}
+Time= 8.6
+order {"code":0,"message":"成功","data":null}
+Time= 8.8
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734336348688","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[129,2],"station_name_list":["食品药品学院对面","检测园东南门"],"station_arrive_time_list":["2024-12-16 16:08:17","2024-12-16 16:09:43"],"station_leave_time_list":["2024-12-16 16:08:47","2024-12-16 16:10:13"],"station_related_orders_list":[[{"order_id":"TA1-1","pax_num":1}],[{"order_id":"TA1-1","pax_num":-1}]]}]}}
+

@@ -1,0 +1,29 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416631472","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416631751","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.4
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416632376","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 5.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416636698","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 8.4
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416640038","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 8.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416640374","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[2,15,27,18],"station_name_list":["检测园东南门","汉高学士府东门","俏厨娘","联丰苑南1门"],"station_arrive_time_list":["2024-12-17 14:26:16","2024-12-17 14:27:59","2024-12-17 14:30:46","2024-12-17 14:32:25"],"station_leave_time_list":["2024-12-17 14:26:46","2024-12-17 14:28:29","2024-12-17 14:31:16","2024-12-17 14:32:55"],"station_related_orders_list":[[{"order_id":"TI17-1","pax_num":1}],[{"order_id":"TI17-2","pax_num":1}],[{"order_id":"TI17-2","pax_num":-1}],[{"order_id":"TI17-1","pax_num":-1}]]}]}}
+
+Time= 9.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416640689","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[2,15,27,18],"station_name_list":["检测园东南门","汉高学士府东门","俏厨娘","联丰苑南1门"],"station_arrive_time_list":["2024-12-17 14:26:16","2024-12-17 14:27:59","2024-12-17 14:30:46","2024-12-17 14:32:25"],"station_leave_time_list":["2024-12-17 14:26:46","2024-12-17 14:28:29","2024-12-17 14:31:16","2024-12-17 14:32:55"],"station_related_orders_list":[[{"order_id":"TI17-1","pax_num":1}],[{"order_id":"TI17-2","pax_num":1}],[{"order_id":"TI17-2","pax_num":-1}],[{"order_id":"TI17-1","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416645831","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[125,106,105],"station_name_list":["渔湘四海","含浦家苑南门","中医药大学南门"],"station_arrive_time_list":["2024-12-17 14:24:35","2024-12-17 14:30:07","2024-12-17 14:35:05"],"station_leave_time_list":["2024-12-17 14:25:05","2024-12-17 14:31:07","2024-12-17 14:35:35"],"station_related_orders_list":[[{"order_id":"TI17-4","pax_num":1}],[{"order_id":"TI17-4","pax_num":-1},{"order_id":"TI17-3","pax_num":1}],[{"order_id":"TI17-3","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[2,15,27,18],"station_name_list":["检测园东南门","汉高学士府东门","俏厨娘","联丰苑南1门"],"station_arrive_time_list":["2024-12-17 14:26:21","2024-12-17 14:28:04","2024-12-17 14:30:51","2024-12-17 14:32:30"],"station_leave_time_list":["2024-12-17 14:26:51","2024-12-17 14:28:34","2024-12-17 14:31:21","2024-12-17 14:33:00"],"station_related_orders_list":[[{"order_id":"TI17-1","pax_num":1}],[{"order_id":"TI17-2","pax_num":1}],[{"order_id":"TI17-2","pax_num":-1}],[{"order_id":"TI17-1","pax_num":-1}]]}]}}
+

@@ -1,0 +1,29 @@
+Time= 0.0
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416488592","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.1
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416488870","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 0.4
+vehicle_location {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416489477","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 1.0
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416489787","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]}]}}
+
+Time= 5.3
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416494109","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[],"station_name_list":[],"station_arrive_time_list":[],"station_leave_time_list":[],"station_related_orders_list":[]},{"vehicle_id":1,"station_id_list":[22,15],"station_name_list":["食品药品学院北门","汉高学士府东门"],"station_arrive_time_list":["2024-12-17 14:23:00","2024-12-17 14:25:10"],"station_leave_time_list":["2024-12-17 14:23:30","2024-12-17 14:25:40"],"station_related_orders_list":[[{"order_id":"TE17-1","pax_num":1}],[{"order_id":"TE17-1","pax_num":-1}]]}]}}
+
+Time= 7.7
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416496433","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[26,11],"station_name_list":["学士翰林苑","周南学士实验学校西南"],"station_arrive_time_list":["2024-12-17 14:27:51","2024-12-17 14:30:14"],"station_leave_time_list":["2024-12-17 14:28:21","2024-12-17 14:30:44"],"station_related_orders_list":[[{"order_id":"TE17-2","pax_num":1}],[{"order_id":"TE17-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[22,15],"station_name_list":["食品药品学院北门","汉高学士府东门"],"station_arrive_time_list":["2024-12-17 14:23:05","2024-12-17 14:25:15"],"station_leave_time_list":["2024-12-17 14:23:35","2024-12-17 14:25:45"],"station_related_orders_list":[[{"order_id":"TE17-1","pax_num":1}],[{"order_id":"TE17-1","pax_num":-1}]]}]}}
+
+Time= 11.3
+order {"code":0,"message":"成功","data":null}
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416500092","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[26,11],"station_name_list":["学士翰林苑","周南学士实验学校西南"],"station_arrive_time_list":["2024-12-17 14:27:56","2024-12-17 14:30:19"],"station_leave_time_list":["2024-12-17 14:28:26","2024-12-17 14:30:49"],"station_related_orders_list":[[{"order_id":"TE17-2","pax_num":1}],[{"order_id":"TE17-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[22,15,125,101,102,114],"station_name_list":["食品药品学院北门","汉高学士府东门","渔湘四海","裕园小区西门","江山帝景北2门","联丰小区南门"],"station_arrive_time_list":["2024-12-17 14:23:10","2024-12-17 14:25:20","2024-12-17 14:28:20","2024-12-17 14:31:03","2024-12-17 14:35:27","2024-12-17 14:39:01"],"station_leave_time_list":["2024-12-17 14:23:40","2024-12-17 14:25:50","2024-12-17 14:28:50","2024-12-17 14:31:33","2024-12-17 14:35:57","2024-12-17 14:39:31"],"station_related_orders_list":[[{"order_id":"TE17-1","pax_num":1}],[{"order_id":"TE17-1","pax_num":-1}],[{"order_id":"TE17-3","pax_num":1}],[{"order_id":"TE17-4","pax_num":1}],[{"order_id":"TE17-4","pax_num":-1}],[{"order_id":"TE17-3","pax_num":-1}]]}]}}
+
+feedback {"code":0,"message":"成功","data":{"region_id":1,"ts":"1734416505235","vehicle_dispatch":[{"vehicle_id":2,"station_id_list":[26,11],"station_name_list":["学士翰林苑","周南学士实验学校西南"],"station_arrive_time_list":["2024-12-17 14:28:01","2024-12-17 14:30:24"],"station_leave_time_list":["2024-12-17 14:28:31","2024-12-17 14:30:54"],"station_related_orders_list":[[{"order_id":"TE17-2","pax_num":1}],[{"order_id":"TE17-2","pax_num":-1}]]},{"vehicle_id":1,"station_id_list":[22,15,125,101,102,114],"station_name_list":["食品药品学院北门","汉高学士府东门","渔湘四海","裕园小区西门","江山帝景北2门","联丰小区南门"],"station_arrive_time_list":["2024-12-17 14:23:15","2024-12-17 14:25:25","2024-12-17 14:28:25","2024-12-17 14:31:08","2024-12-17 14:35:32","2024-12-17 14:39:06"],"station_leave_time_list":["2024-12-17 14:23:45","2024-12-17 14:25:55","2024-12-17 14:28:55","2024-12-17 14:31:38","2024-12-17 14:36:02","2024-12-17 14:39:36"],"station_related_orders_list":[[{"order_id":"TE17-1","pax_num":1}],[{"order_id":"TE17-1","pax_num":-1}],[{"order_id":"TE17-3","pax_num":1}],[{"order_id":"TE17-4","pax_num":1}],[{"order_id":"TE17-4","pax_num":-1}],[{"order_id":"TE17-3","pax_num":-1}]]}]}}
+
